@@ -1,10 +1,17 @@
 [
  {
-   "repository": "android_device_qcom_common",
-   "target_path": "device/qcom/common"
+    "repository": "TheLoonyBin/proprietary_vendor_qcom_binaries",
+    "target_path": "vendor/qcom/binaries",
+    "branch": "ng7.1"
  },
  {
-   "repository": "android_kernel_xiaomi_cancro",
-   "target_path": "kernel/xiaomi/cancro"
+    "repository": "TheLoonyBin/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "ng7.1"
+ },
+ {
+    "repository": "android_kernel_xiaomi_cancro",
+    "target_path": "kernel/xiaomi/cancro",
+    "branch": "ng7.1"
  }
 ]
