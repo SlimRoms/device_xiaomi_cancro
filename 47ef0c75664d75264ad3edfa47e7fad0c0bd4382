@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 4C56C166 1501433024 +0530\npushee ssh://review.slimroms.org:29418/SlimRoms/device_xiaomi_cancro\nnonce 1501433023-AAEDE874741384CBD4DAA105DB1B122B2FDEF791\n\n0000000000000000000000000000000000000000 47ef0c75664d75264ad3edfa47e7fad0c0bd4382 refs/for/ng7.1\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEVM10jVzUx1f+AMxGpiniMUxWwWYFAll+DMAACgkQpiniMUxW\nwWYOXwgAjJ26yqvqATAcSqeRUuGajE75LvehCWeh6CUzyQlcz4fF/9pMSS5CtuzE\nxhEdVVynbNxx8KzaLgqxZGxNsUltDYKZkzfhUPEQIF68fFqNjEvnczt9kf9r8523\nB9knLsGLYk/zMqO5081SBQya0X8kzjmj5uHlWjUA0V+XwvlqMLQjVc1yzul95EaI\n4ewepN8XXSnrKLtszBXSRDPQjpZ5F1ROqQHi8+Cm9XWpJOpbLN/URLjNYgrfi8UT\nIL0qruxSJAwpTjraT/ACtWur37uFHLkF/wo4VgCwP6vS1KJV/DIfi89Fqe7nf/7x\n54rv6WnrsHH4sfW8KkE4KlqcfEa+hg\u003d\u003d\n\u003dV7Kc\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
